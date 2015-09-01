@@ -6,7 +6,7 @@ var App = React.createClass({
     return (
       <div>
         <div><Link to="/">App</Link></div>
-        <div><Link to="/about">About 23</Link></div>
+        <div><Link to="/about">About 24</Link></div>
         <div>{ this.props.children }</div>
       </div>
     );

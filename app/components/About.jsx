@@ -3,7 +3,7 @@ import React from 'react';
 var About = React.createClass({
   render () {
     return (
-      <div>About wang jie</div>
+      <div>About</div>
     );
   }
 });
