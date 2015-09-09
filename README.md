@@ -4,7 +4,7 @@
 
 ## 运行开发用服务器
 
-    npm run dev-server
+    npm start
 
 ## 热替换效果
 
