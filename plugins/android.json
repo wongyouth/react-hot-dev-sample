@@ -20,6 +20,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.home.world"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.home.world"
         }
     },
     "dependent_plugins": {}
