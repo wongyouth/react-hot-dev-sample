@@ -2,7 +2,6 @@ import React from 'react';
 import { Router } from 'react-router';
 import { createHashHistory } from 'history';
 import routes from './routes';
-import About from './components/About';
 
 var history = createHashHistory();
 
